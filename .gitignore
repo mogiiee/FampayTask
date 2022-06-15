@@ -1,0 +1,6 @@
+virtualenv
+app/celerybeat-schedule.db
+.env
+celerybeat-schedule.db
+web_server/.env
+worker/.env
